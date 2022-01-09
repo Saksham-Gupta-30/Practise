@@ -3,3 +3,5 @@ Japan
 Autralia
 America
 Mexico
+Sweden
+Switzerland
